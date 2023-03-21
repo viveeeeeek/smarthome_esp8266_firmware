@@ -1,10 +1,3 @@
-Video Demo
-----------
-
-Check out this video to see the Smarthome ESP8266 Firmware in action:
-
-[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://user-images.githubusercontent.com/64553247/226548935-150840d4-c913-4992-adc9-b7c06e9714e9.mp4))
-
 
 
 
@@ -16,6 +9,12 @@ Overview
 --------
 
 This repository contains the source code for an ESP8266 firmware that allows you to control an LED using a mobile app via the Blynk cloud API. The firmware is written in C++ and can be easily modified to control other devices such as TVs or speakers.
+
+
+Video Demo
+----------
+
+Check out this video to see the Smarthome ESP8266 Firmware in action:
 
 https://user-images.githubusercontent.com/64553247/226548890-21973a4d-5bc6-4d0b-82bf-eae109b09442.mp4
 
